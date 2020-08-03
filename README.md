@@ -1,6 +1,3 @@
-## If you wanna support me, all i ask for is that you try out my recent project.
-- [https://discord.bots.gg/bots/713054765025722440](https://discord.bots.gg/bots/713054765025722440)
-
 # DM Opener
 Open every single DM you've ever talked in.
 
