@@ -1,4 +1,4 @@
-# DM Opener
+# DM Opener [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/open-all-dms/badge)](https://www.codefactor.io/repository/github/hellbound1337/open-all-dms)
 Open every single DM you've ever talked in.
 
 # Requirements
